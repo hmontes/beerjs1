@@ -1,4 +1,7 @@
-![beer-js](https://i.imgur.com/eK3RSS4.png)
+<p align="center">
+  <img width="460" height="300" src="https://i.imgur.com/eK3RSS4.png">
+</p>
+
 # Beer.js Octubre 2017 - La navaja de React
 
 ## Descripción
